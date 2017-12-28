@@ -1,0 +1,31 @@
+{
+  "extensionName": {
+    "message": "Open With",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Open the current opened web page or any selected object on it (image, text) in your favorite application.",
+    "description": "Description of the add-on."
+  },
+
+  "openSelection": {
+    "message": "Open selected object instead of the current web page with …",
+    "description": "Open only a selected object instead of the current web page."
+  },
+
+  "saveLabel": {
+    "message": "Save settings",
+    "description": ""
+  },
+
+  "optionsSaved": {
+    "message": "Settings saved",
+    "description": ""
+  },
+
+  "removeApp": {
+    "message": "remove",
+    "description": ""
+  }
+}
